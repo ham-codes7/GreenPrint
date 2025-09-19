@@ -1,0 +1,10 @@
+numpy
+pandas
+shapely
+matplotlib
+tkinter
+pvlib
+scikit-learn
+joblib
+openai
+transformers
